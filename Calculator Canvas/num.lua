@@ -11,8 +11,8 @@ if entrada_erase then
   primer_numero=true
   segundo_numero=false
 
-  end
-  if entrada_mas then
+
+  elseif entrada_mas then
     operacion="suma"
     primer_numero=false
     segundo_numero=true
