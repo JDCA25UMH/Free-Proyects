@@ -798,6 +798,7 @@ entrada_equal=false
    firstnumer=0
    secondnumer=0
   resultado=0
+collectgarbage("collect")		
 label.text=text1..text2
 label01:hide()
 
